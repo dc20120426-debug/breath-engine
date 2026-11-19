@@ -1,7 +1,7 @@
-:HL["/breath-engine/_next/static/chunks/1_n556-o90k__.css","style"]
+:HL["/breath-engine/_next/static/chunks/1jixpd6bv9307.css","style"]
 :HC["/",""]
 :HL["/breath-engine/_next/static/chunks/2grabeln0h6q0.css","style"]
 :HL["/breath-engine/respiratory-system.webp","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"infographic","h":96,"c":"$Q2"}]]
-0:{"b":"oRQPwAGQl6e7MHbWmxa-Y","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"tLJNAyCng1PlY0TQw18f-","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
