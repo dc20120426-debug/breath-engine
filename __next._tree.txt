@@ -1,4 +1,4 @@
-:HL["/breath-engine/_next/static/chunks/2nc_d3c_gzpnx.css","style"]
+:HL["/breath-engine/_next/static/chunks/2eh-qov90d77u.css","style"]
 :HC["/",""]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"yVBPWyxAH7b6UxcJljPKX","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"VSdtKpX3UxBcJ8qI1ALWb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
