@@ -1,4 +1,4 @@
-:HL["/breath-engine/_next/static/chunks/07t3ikcfjovmp.css","style"]
+:HL["/breath-engine/_next/static/chunks/008v9zpocyu9g.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"yZI2ihE4HpgcghwCCvgvZ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"xa_BflV3rbo6C1lFDVjxi","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
